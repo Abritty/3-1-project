@@ -1,0 +1,125 @@
+.main_wrapper{
+    width:100%;
+    height: auto;
+    margin: 0px;
+}
+.subheader{
+    width:100%;
+	margin:-1px;
+    height:35px;
+	background-color: chartreuse;
+    color: black;
+}
+.header_wrapper{
+	width:100%;
+	margin:0;
+    height:170px;
+	background-color:white;
+}
+#navbar {
+  overflow: hidden;
+  background-color: chartreuse;
+    width:100%;
+	margin:0;
+    height:50px;
+}
+.container_slider{
+	width:98%;
+	margin:0px;
+	overflow:auto;
+    height:450px;
+}
+
+.right_content{
+    width:90%;
+    float:right;
+    background-color:white;
+    margin-left:0px;
+    margin-right: 0px;
+    padding: 10px;
+    height:900px;
+}
+.right_content2{
+    width:50%;
+    float:right;
+    background-color:white;
+    margin-left:0px;
+    margin-right: 0px;
+    padding: 10px;
+    height:900px;
+}
+.product_box{
+
+    width:80%;
+    padding:10px;
+    margin: 20px;
+    text-align: center;
+
+}
+#single_product {
+float: left;
+padding: 30px;
+padding-bottom: 50px;
+margin-left: 10px;
+}
+
+#single_product img {
+border: 2px solid black;
+}
+
+.left_content{
+    width:10%;
+   float:left;
+    height:900px;
+    margin-left:0px;
+    margin-right: 0px;
+    background-color: limegreen;
+    padding: 10px;
+    border: .5px solid black;
+}
+.left_right{
+    width:100%;
+    margin-top: 7px;
+    height:auto;
+}
+
+.footer{
+    width:100%;
+    margin-top: 0px;
+    height:150px;
+    background-color:orange;
+    padding:0px;
+    margin-bottom: -15px;
+
+}
+.left content ul{text-decoration: none;
+     padding: 14px 16px;
+    display: block;
+    font-size: 17px;
+}
+.left_content a{
+    float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.left_content a:hover{
+ background-color: palegreen;
+    color: black;}
+
+.left_side_title{
+
+float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  background-color:yellow;
+
+}
+
